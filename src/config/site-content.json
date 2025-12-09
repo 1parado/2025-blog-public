@@ -1,11 +1,11 @@
 {
 	"meta": {
-		"title": "YYsuni",
-		"description": "YYsuni 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
-		"username": "Suni"
+		"title": "Paradox’s Blog",
+		"description": "Paradox 的个人博客，记录程序开发、探索、笔记。",
+		"username": "Paradox"
 	},
 	"theme": {
-		"colorBrand": "#de4331",
+		"colorBrand": "#E9E158",
 		"colorPrimary": "#4E3F42",
 		"colorSecondary": "#7b888e",
 		"colorBrandSecondary": "#FCC841",
@@ -15,12 +15,10 @@
 		"colorArticle": "#ffffffcc"
 	},
 	"backgroundColors": [
-		"#FCC841",
-		"#DFEFFC",
-		"#DEDE92",
-		"#DE4331",
-		"#FE9750",
-		"#FCC841"
+		"#1CED46",
+		"#23A809",
+		"#8d7fbf",
+		"#DF4C30"
 	],
 	"artImages": [
 		{
@@ -30,9 +28,13 @@
 		{
 			"id": "a46372ff45bc5524",
 			"url": "/images/art/a46372ff45bc5524.jpg"
+		},
+		{
+			"id": "f8e0182316597ae1",
+			"url": "/images/art/f8e0182316597ae1.jpg"
 		}
 	],
-	"currentArtImageId": "a46372ff45bc5524",
+	"currentArtImageId": "cat",
 	"backgroundImages": [
 		{
 			"id": "",
@@ -44,21 +46,14 @@
 		{
 			"id": "github",
 			"type": "github",
-			"value": "https://github.com/yysuni",
+			"value": "https://github.com/1parado",
 			"label": "Github",
-			"order": 3
-		},
-		{
-			"id": "juejin",
-			"type": "juejin",
-			"value": "https://juejin.cn/user/2427311675422382",
-			"label": "稀土掘金",
 			"order": 2
 		},
 		{
 			"id": "email",
 			"type": "email",
-			"value": "yysuni1001@gmail.com",
+			"value": "2825171479@qq.com",
 			"label": "",
 			"order": 1
 		}
